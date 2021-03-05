@@ -1,0 +1,9 @@
+{
+    "Artist": [
+        { "id": 1, "name": "David Bowie" },
+        { "id": 2, "name": "Roxy Music" },
+        { "id": 3, "name": "Led Zeppelin" },
+        { "id": 4, "name": "Genesis" },
+        { "id": 5, "name": "Rush" }
+          ]
+  }
